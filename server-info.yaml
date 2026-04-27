@@ -1,0 +1,85 @@
+- type: embed
+  embeds:
+    - title: "Welcome!"
+      description: >-
+        Welcome to /r/TibiaMMO's official Discord server!
+
+        A place to discuss the game, hunting places, nostalgy or just shitposting!
+      color: 0xBF2312
+      thumbnail:
+        url: https://styles.redditmedia.com/t5_2s3sk/styles/communityIcon_z4ns648v4yq31.png
+
+    - title: "Rules"
+      color: 0xBF2312
+      description: >-
+        - Keep the content relevant to the channel.
+        
+        - Try to keep conversations in english, except in the language specific channels.
+        
+        - No OpenTibia content allowed.
+        
+        - We respect the Tibia Rules, account trading, gold selling, botting tools are not allowed here.
+        
+        - Keep it SFW at all times.
+        
+        - Racist, homophobic, sexist or otherwise hateful comments will be removed, and will result in a ban.
+
+        - Please try to remain civil. Attempts to annoy or harass will result in a warning or a ban at the moderators discretion.
+
+        - No spamming.
+
+- type: embed
+  text: "# Channels"        
+  embeds:
+    - color: 0xBF2312
+      description: >-
+        <#450721969524965377> *You are here*
+
+        <#450024553695936532> Announcements about the subreddit or this server will be made here
+
+        <#449342342051397651> New articles from Tibia.com are posted here
+
+        <#449343931189166081> A newsfeed of new posts in /r/TibiaMMO
+
+        <#449703177000845332> The subreddit's supported guilds
+
+
+
+        <#140054830252163072> Talk about anything related to Tibia here
+
+        <#140056192071368704> Ask for hunting advice!
+
+        <#348863503022555138> Show off your screenshots or videos
+
+        <#191977619959447552> Look for rare items or advertise your own
+
+        <#249184754547687424> Use the bots here.
+
+
+        <#449712883773865984> Talk about **anything** here
+
+
+        World Chat channels: Speak with others in your native language
+- type: embed
+  text: "# Links"
+  embeds:
+    - title: Links
+      color: 0xBF2312
+      description: >-
+        - <https://www.reddit.com/r/TibiaMMO/> - /r/TibiaMMO
+        
+        - <https://www.reddit.com/r/TibiaMMO/comments/6x59i6/hunting_places_for_all_vocations_20/> - Hunting places for all vocations (Last Update Sep 2017)
+        
+        - <https://docs.google.com/spreadsheets/d/1_fRHDTKVrTAeGSVnYNU7bObFOTocKHCPTq31VW6c8Gk/pubhtml> - Hunting spreadsheet
+        
+        - <https://docs.google.com/spreadsheets/d/1q7-0W1FH9dq_Bpb2dwcJ4eE6FmrzS73kh9mCCia4_J0> - Online training spreadsheet
+        
+        - <https://tibia.fandom.com> - TibiaWiki
+        
+        - <https://tibiamaps.io/> - TibiaMaps.io
+        
+        - <https://tibia.space/> - Android app for Tibia
+        
+        - https://discord.gg/bwNW2NB - TibiaWiki's discord server
+
+        *Want to link something relevant here? Let us know*
