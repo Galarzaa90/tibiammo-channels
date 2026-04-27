@@ -29,7 +29,6 @@
         - No spamming.
 
 - type: embed
-  text: "# Channels"        
   embeds:
     - color: 0xBF2312
       description: >-
@@ -61,7 +60,6 @@
 
         World Chat channels: Speak with others in your native language
 - type: embed
-  text: "# Links"
   embeds:
     - title: Links
       color: 0xBF2312
