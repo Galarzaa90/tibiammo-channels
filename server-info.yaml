@@ -65,7 +65,7 @@
         World Chat channels: Speak with others in your native language
 - type: embed
   embeds:
-      color: 0xBF2312
+    - color: 0xBF2312
       description: >-
         # Useful Links
 
