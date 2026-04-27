@@ -1,7 +1,8 @@
 - type: embed
   embeds:
-    - title: "Welcome!"
-      description: >-
+    - description: >-
+        # Welcome
+
         Welcome to /r/TibiaMMO's official Discord server!
 
         A place to discuss the game, hunting places, nostalgy or just shitposting!
@@ -9,9 +10,10 @@
       thumbnail:
         url: https://styles.redditmedia.com/t5_2s3sk/styles/communityIcon_z4ns648v4yq31.png
 
-    - title: "Rules"
-      color: 0xBF2312
+    - color: 0xBF2312
       description: >-
+        # Rules
+
         - Keep the content relevant to the channel.
         
         - Try to keep conversations in english, except in the language specific channels.
@@ -32,6 +34,8 @@
   embeds:
     - color: 0xBF2312
       description: >-
+        # Channels
+
         <#450721969524965377> *You are here*
 
         <#450024553695936532> Announcements about the subreddit or this server will be made here
@@ -61,9 +65,10 @@
         World Chat channels: Speak with others in your native language
 - type: embed
   embeds:
-    - title: Links
       color: 0xBF2312
       description: >-
+        # Useful Links
+
         - [/r/TibiaMMO](https://www.reddit.com/r/TibiaMMO/)
         
         - [Hunting places for all vocations (Last Update Sep 2017)](https://www.reddit.com/r/TibiaMMO/comments/6x59i6/hunting_places_for_all_vocations_20/)
